@@ -19,8 +19,7 @@ class Contact extends Component{
             <div class="text-center px-lg-5">
                 <h3 class="heading text-center mb-3 mb-sm-5">Contact Us</h3>
                 <div class="title-desc text-center px-lg-5">
-                    <p class="px-lg-5 sub-wthree">Praesent ullamcorper dui turpis.At vero eos et accusam et justo duo dolores et ea rebum.Integer sit amet mattis quam, sit amet ultricies velit. Praesent ullamcorper dui turpis.
-                        Praesent ullamcorper dui turpis.</p>
+                    <p class="px-lg-5 sub-wthree">Looking forward to connecting with you soon and exploring how we can help you achieve your beauty goals!"</p>
                 </div>
             </div>
             <div class="contact-w3pvt-form mt-5">

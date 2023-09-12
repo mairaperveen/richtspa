@@ -9,7 +9,7 @@ class Navbar extends Component{
 			<div class="header-agile">
 				<h1>
 					<Link to='/' class="navbar-brand logo">
-						<span class="fa fa-scissors" aria-hidden="true" ></span> Men spa	<span class="fa fa-user-secret" aria-hidden="true" ></span>
+						<span class="fa fa-scissors" aria-hidden="true" ></span> Richt Spa	<span class="fa fa-user-secret" aria-hidden="true" ></span>
 					</Link>
 				</h1>
 			</div>
@@ -22,8 +22,8 @@ class Navbar extends Component{
 							<li class="mr-lg-3 mr-2"><Link to='/about'>About</Link></li>
 							<li class="mr-lg-3 mr-2 p-0">
 							{/* <!-- First Tier Drop Down --> */}
-							<label for="drop-2" class="toggle">Dropdown <span class="fa fa-angle-down" aria-hidden="true"></span> </label>
-							<a href="#">Dropdown <span class="fa fa-angle-down" aria-hidden="true"></span></a>
+							<label for="drop-2" class="toggle">Design <span class="fa fa-angle-down" aria-hidden="true"></span> </label>
+							<a href="#">Design <span class="fa fa-angle-down" aria-hidden="true"></span></a>
 							<input type="checkbox" id="drop-2"/>
 							<ul class="inner-dropdown">
 								<li><Link to='/services'>Services</Link></li>

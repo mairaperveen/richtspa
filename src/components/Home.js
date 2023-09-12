@@ -22,7 +22,7 @@ class Home extends  Component{
 						<div class="banner-text">
 							<div class="container">
 								<h2 class="movetxt agile-title text-capitalize">We Create and Renovate Hair Style Trends</h2>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries.</p>
+								<p>Your innovative approach to creating and renovating hair style trends is truly impressive!. It has survived not only five centuries.</p>
 								
 								<Link to='/contact' class="btn">Get appointment</Link>
 							</div>
@@ -36,7 +36,7 @@ class Home extends  Component{
 						<div class="banner-text">
 							<div class="container">
 								<h4 class="movetxt agile-title text-capitalize">We Help to grow your hair as well beard </h4>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries.</p>
+								<p>Unlock your full hair and beard potential with our expert care and grooming services!</p>
 								<Link to='/contact' class="btn">Get appointment</Link>
 							</div>
 						</div>
@@ -49,7 +49,7 @@ class Home extends  Component{
 						<div class="banner-text">
 							<div class="container">
 							<h2 class="movetxt agile-title text-capitalize">We Design and Create Hair Style Latest</h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries.</p>
+							<p>Stay ahead of the fashion curve with our cutting-edge hair design and styling expertise!</p>
 							<Link to='/contact' class="btn">Get appointment</Link>
 							</div>
 						</div>
@@ -62,7 +62,7 @@ class Home extends  Component{
 						<div class="banner-text">
 							<div class="container">
 								<h4 class="movetxt agile-title text-capitalize">We design latest trending haircuts </h4>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries.</p>
+								<p>Experience the forefront of style with our expertly crafted, trendsetting haircuts.</p>
 								<Link to='/contact' class="btn">Get appointment</Link>
 							</div>
 						</div>
@@ -90,8 +90,7 @@ class Home extends  Component{
 
                 <div class="title-desc text-center px-lg-5">
 					<img src="assets/images/about1.png" alt="news image" class="img-fluid" />
-                    <p class="px-lg-5">Praesent ullamcorper dui turpis.At vero eos et accusam et justo duo dolores et ea rebum.Integer sit amet mattis quam, sit amet ultricies velit. Praesent ullamcorper dui turpis.
-                        Praesent ullamcorper dui turpis.At vero eos et accusam et justo duo dolores et ea rebum.Integer sit amet mattis quam, sit amet ultricies velit. Praesent ullamcorper dui turpis.</p>
+                    <p class="px-lg-5">With a team of skilled barbers and a commitment to delivering top-notch grooming experiences, we're dedicated to helping every gentleman look and feel his best.</p>
                     
 					<Link to="/services" class="btn mt-lg-4 mt-3 read scroll" role="button">Learn More</Link>
                 </div>
@@ -362,7 +361,7 @@ class Home extends  Component{
                 <div class="col-md-4 test-grid text-left px-lg-3">
                     <div class="test-info">
 
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s. Praesent ullamcorper dui turpis.</p>
+                        <p> I had an amazing experience at this hair salon! The staff was incredibly skilled and friendly.</p>
                         <h3 class="mt-md-4 mt-3"> Abraham Smith</h3>
 
                         <div class="test-img text-center mb-3">
@@ -388,7 +387,7 @@ class Home extends  Component{
                 <div class="col-md-4 test-grid text-left px-lg-3 py-sm-5 py-md-0 py-3">
                     <div class="test-info">
 
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s. Praesent ullamcorper dui turpis.</p>
+                        <p>I've been a loyal customer of this salon for years, and they never disappoint.It was impressive.</p>
                         <h3 class="mt-md-4 mt-3"> Mariana Noe</h3>
                         <div class="test-img text-center mb-3">
                             <img src="assets/images/test2.jpg" class="img-fluid" alt="user-image" />
@@ -413,7 +412,7 @@ class Home extends  Component{
                 <div class="col-md-4 test-grid text-left px-lg-3">
                     <div class="test-info">
 
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s. Praesent ullamcorper dui turpis.</p>
+                        <p>I was nervous about trying a new salon, but I'm so glad I did. The team was talented and attentive.</p>
                         <h3 class="mt-md-4 mt-3">Nebula Nairobi</h3>
 
                         <div class="test-img text-center mb-3">
