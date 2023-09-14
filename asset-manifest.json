@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/richtspa/static/css/main.e6c13ad2.css",
+    "main.js": "/richtspa/static/js/main.60c2a417.js",
+    "index.html": "/richtspa/index.html",
+    "main.e6c13ad2.css.map": "/richtspa/static/css/main.e6c13ad2.css.map",
+    "main.60c2a417.js.map": "/richtspa/static/js/main.60c2a417.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.60c2a417.js"
+  ]
+}
